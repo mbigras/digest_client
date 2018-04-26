@@ -6,6 +6,12 @@
 irb -I lib -r digest_client
 ```
 
+## Start the test web server
+
+```
+ruby test/test_server.rb
+```
+
 ## Run all tests
 
 https://stackoverflow.com/a/20677149/2909897
